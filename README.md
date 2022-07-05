@@ -1,14 +1,14 @@
-# Nerfies
+# Official Repository for CoCAtt, a Cognitive-Conditioned Driver Attention Dataset
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [CoCAtt website](https://cocatt-dataset.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find CoCAtt useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{shen2022cocatt
+  author    = {Shen, Yuan and Wijayaratne, Niviru and Sriram, Pranav and Hasan, Aamir and Du, Peter and Driggs-Campbell, Katie},
+  title     = {CoCAtt: A Cognitive-Conditioned Driver Attention Dataset},
+  journal   = {2022 IEEE 25th International Conference on Intelligent Transportation Systems},
+  year      = {2022},
 }
 ```
 
